@@ -1,8 +1,8 @@
 # turkiye-iller-arasi-mesafe-matlab
-Türkiye İller Arası Mesafe
-Author : Sezer Fidancı - www.sezerfidanci.com - Mayıs 2017
-Örnek Kullanım : TurkiyeIlMesafe(Birinciİl,İkinciİl,Tip)
-   Birinciİl : Şehrin, indis kodu / plaka kodu / adı
-   İkniciİl : Şehrin, indis kodu / plaka kodu / adı
-   Tip : 1 (İndise Göre) / 2 (Plaka Koduna Göre) / 3 (Şehir Adına Göre)
- Kaynak : www.kgm.gov.tr
+<b>Türkiye İller Arası Mesafe</b><br>
+<b>Author : </b>Sezer Fidancı - www.sezerfidanci.com - Mayıs 2017<br>
+<b>Örnek Kullanım :</b> TurkiyeIlMesafe(Birinciİl,İkinciİl,Tip)<br>
+   <b>Birinciİl :</b> Şehrin, indis kodu / plaka kodu / adı<br>
+   <b>İkniciİl :</b> Şehrin, indis kodu / plaka kodu / adı<br>
+   <b>Tip :</b> 1 (İndise Göre) / 2 (Plaka Koduna Göre) / 3 (Şehir Adına Göre)<br>
+<b>Kaynak :</b> www.kgm.gov.tr<br>
